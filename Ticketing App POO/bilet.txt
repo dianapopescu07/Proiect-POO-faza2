@@ -1,0 +1,13 @@
+Nume Piesa: "Hamlet"
+Data si ora: "10.03.2023 15:00"
+Zona: "VIP"
+Nr persoane: 2
+Locuri: "A1, A2"
+Pret: 100
+
+Nume Piesa: "Fantoma de la opera"
+Data si ora: "12.02.2023 19:00"
+Zona: "Standard"
+Nr persoane: 1
+Locuri: "B3"
+Pret: 45.5
